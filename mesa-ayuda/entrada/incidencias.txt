@@ -1,0 +1,6 @@
+INC-001|Impresora sin conexión|MEDIA
+INC-002|Servidor de correo no responde|ALTA
+INC-003|Actualizar navegador|BAJA
+INC-004|Usuario no puede iniciar sesión|ALTA
+INC-005|Instalar aplicación de oficina|MEDIA
+INC-006|Falla del servidor de archivos|ALTA

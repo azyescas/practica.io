@@ -1,0 +1,6 @@
+Universidad de Sonora
+Desarrollo de Sistemas III
+Práctica de entrada y salida en Java
+
+Java proporciona diferentes mecanismos para trabajar
+con archivos y flujos de información.

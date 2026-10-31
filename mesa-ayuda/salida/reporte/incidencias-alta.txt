@@ -1,0 +1,3 @@
+INC-002|Servidor de correo no responde|ALTA
+INC-004|Usuario no puede iniciar sesión|ALTA
+INC-006|Falla del servidor de archivos|ALTA
